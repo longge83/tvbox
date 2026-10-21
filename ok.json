@@ -1,0 +1,435 @@
+{
+  "lives": [
+    {
+      "name": "直播",
+      "url": "tv.txt",
+      "type": 0
+    }
+  ],
+  "sites": [
+    {
+      "key": "fyyy",
+      "name": "飞宇影院",
+      "type": 1,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\"charset\":\"UTF-8\",\"headers\":{\"User-Agent\":\"okhttp/3.12.13\"},\"playerUrl\":\"\",\"siteName\":\"飞宇影院\",\"siteUrl\":\"https://www.fyyy.tv\"}"
+    },
+    {
+      "key": "huashi",
+      "name": "华数影视",
+      "type": 1,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\"charset\":\"UTF-8\",\"headers\":{\"User-Agent\":\"okhttp/3.12.13\"},\"playerUrl\":\"\",\"siteName\":\"华数影视\",\"siteUrl\":\"https://www.huashimovie.com\"}"
+    },
+    {
+      "key": "huayi",
+      "name": "华谊兄弟",
+      "type": 1,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\"charset\":\"UTF-8\",\"headers\":{\"User-Agent\":\"okhttp/3.12.13\"},\"playerUrl\":\"\",\"siteName\":\"华谊兄弟\",\"siteUrl\":\"https://www.huayi.com\"}"
+    },
+    {
+      "key": "dididi",
+      "name": "嘀嗒影视",
+      "type": 1,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\"charset\":\"UTF-8\",\"headers\":{\"User-Agent\":\"okhttp/3.12.13\"},\"playerUrl\":\"\",\"siteName\":\"嘀嗒影视\",\"siteUrl\":\"https://www.dididi.tv\"}"
+    },
+    {
+      "key": "tvb",
+      "name": "TVB云播",
+      "type": 1,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\"charset\":\"UTF-8\",\"headers\":{\"User-Agent\":\"okhttp/3.12.13\"},\"playerUrl\":\"\",\"siteName\":\"TVB云播\",\"siteUrl\":\"https://www.tvb.com\"}"
+    },
+    {
+      "key": "feiyu",
+      "name": "飞娱影视",
+      "type": 1,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\"charset\":\"UTF-8\",\"headers\":{\"User-Agent\":\"okhttp/3.12.13\"},\"playerUrl\":\"\",\"siteName\":\"飞娱影视\",\"siteUrl\":\"https://www.feiyuys.com\"}"
+    },
+    {
+      "key": "wangwang",
+      "name": "旺旺影视",
+
+      "type": 1,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\"charset\":\"UTF-8\",\"headers\":{\"User-Agent\":\"okhttp/3.12.13\"},\"playerUrl\":\"\",\"siteName\":\"旺旺影视\",\"siteUrl\":\"https://www.wangwangys.com\"}"
+    },
+    {
+      "key": "dubo",
+      "name": "独播影视",
+      "type": 1,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\"charset\":\"UTF-8\",\"headers\":{\"User-Agent\":\"okhttp/3.12.13\"},\"playerUrl\":\"\",\"siteName\":\"独播影视\",\"siteUrl\":\"https://www.duboys.com\"}"
+    },
+    {
+      "key": "guazi",
+      "name": "瓜子影视",
+      "type": 1,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\"charset\":\"UTF-8\",\"headers\":{\"User-Agent\":\"okhttp/3.12.13\"},\"playerUrl\":\"\",\"siteName\":\"瓜子影视\",\"siteUrl\":\"https://www.guaziys.com\"}"
+    },
+    {
+      "key": "changzhang",
+      "name": "厂长影视",
+      "type": 1,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\"charset\":\"UTF-8\",\"headers\":{\"User-Agent\":\"okhttp/3.12.13\"},\"playerUrl\":\"\",\"siteName\":\"厂长影视\",\"siteUrl\":\"https://www.changzhangys.com\"}"
+    },
+    {
+      "key": "jinpai",
+      "name": "金牌影视",
+      "type": 1,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\"charset\":\"UTF-8\",\"headers\":{\"User-Agent\":\"okhttp/3.12.13\"},\"playerUrl\":\"\",\"siteName\":\"金牌影视\",\"siteUrl\":\"https://www.jinpaiys.com\"}"
+    },
+    {
+      "key": "mianbao",
+      "name": "面包影视",
+      "type": 1,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\"charset\":\"UTF-8\",\"headers\":{\"User-Agent\":\"okhttp/3.12.13\"},\"playerUrl\":\"\",\"siteName\":\"面包影视\",\"siteUrl\":\"https://www.mianbaos.com\"}"
+    },
+    {
+      "key": "dytt",
+      "name": "电影天堂",
+      "type": 1,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\"charset\":\"UTF-8\",\"headers\":{\"User-Agent\":\"okhttp/3.12.13\"},\"playerUrl\":\"\",\"siteName\":\"电影天堂\",\"siteUrl\":\"https://www.dytt8.net\"}"
+    },
+    {
+      "key": "feifan",
+      "name": "非凡[直连]",
+      "type": 1,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\"charset\":\"UTF-8\",\"headers\":{\"User-Agent\":\"okhttp/3.12.13\"},\"playerUrl\":\"\",\"siteName\":\"非凡[直连]\",\"siteUrl\":\"https://www.feifanzy.com\"}"
+    },
+    {
+      "key": "liangzi",
+      "name": "量子[直连]",
+      "type": 1,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\"charset\":\"UTF-8\",\"headers\":{\"User-Agent\":\"okhttp/3.12.13\"},\"playerUrl\":\"\",\"siteName\":\"量子[直连]\",\"siteUrl\":\"https://www.liangziys.com\"}"
+    },
+    {
+      "key": "wolong",
+      "name": "卧龙资源",
+      "type": 1,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\"charset\":\"UTF-8\",\"headers\":{\"User-Agent\":\"okhttp/3.12.13\"},\"playerUrl\":\"\",\"siteName\":\"卧龙资源\",\"siteUrl\":\"https://www.wolongzy.com\"}"
+    },
+    {
+      "key": "youku",
+      "name": "尤酷[直连]",
+      "type": 1,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\"charset\":\"UTF-8\",\"headers\":{\"User-Agent\":\"okhttp/3.12.13\"},\"playerUrl\":\"\",\"siteName\":\"尤酷[直连]\",\"siteUrl\":\"https://www.youkuys.com\"}"
+    },
+    {
+      "key": "jisu",
+      "name": "极速[直连]",
+      "type": 1,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\"charset\":\"UTF-8\",\"headers\":{\"User-Agent\":\"okhttp/3.12.13\"},\"playerUrl\":\"\",\"siteName\":\"极速[直连]\",\"siteUrl\":\"https://www.jisuys.com\"}"
+    },
+    {
+      "key": "baofeng",
+      "name": "暴風[直连]",
+      "type": 1,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\"charset\":\"UTF-8\",\"headers\":{\"User-Agent\":\"okhttp/3.12.13\"},\"playerUrl\":\"\",\"siteName\":\"暴風[直连]\",\"siteUrl\":\"https://www.baofengys.com\"}"
+    },
+    {
+      "key": "lvlv",
+      "name": "率率[直连]",
+      "type": 1,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\"charset\":\"UTF-8\",\"headers\":{\"User-Agent\":\"okhttp/3.12.13\"},\"playerUrl\":\"\",\"siteName\":\"率率[直连]\",\"siteUrl\":\"https://www.lvlvys.com\"}"
+    },
+    {
+      "key": "baidu",
+      "name": "百度",
+      "type": 1,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\"charset\":\"UTF-8\",\"headers\":{\"User-Agent\":\"okhttp/3.12.13\"},\"playerUrl\":\"\",\"siteName\":\"百度\",\"siteUrl\":\"https://www.baiduys.com\"}"
+    },
+    {
+      "key": "cupfox_in",
+      "name": "茶杯狐",
+      "type": 1,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\"charset\":\"UTF-8\",\"headers\":{\"User-Agent\":\"okhttp/3.12.13\"},\"playerUrl\":\"\",\"siteName\":\"茶杯狐\",\"siteUrl\":\"https://cupfox.in\"}"
+    },
+    {
+      "key": "drpy_js_douban",
+      "name": "豆瓣搜索",
+      "type": 1,
+      "api": "csp_Drpy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "{\"jsPath\":\"https://drpy.112141.xyz/js/douban.js\"}"
+    },
+    {
+      "key": "shanlei",
+      "name": "闪雷MP4",
+      "type": 1,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\"charset\":\"UTF-8\",\"headers\":{\"User-Agent\":\"okhttp/3.12.13\"},\"playerUrl\":\"\",\"siteName\":\"闪雷MP4\",\"siteUrl\":\"https://www.shanlei.tv\"}"
+    },
+    {
+      "key": "drpy_js_360",
+      "name": "360搜索",
+      "type": 1,
+      "api": "csp_Drpy",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "{\"jsPath\":\"https://drpy.112141.xyz/js/360.js\"}"
+    },
+    {
+      "key": "drpy_js_mgtv",
+      "name": "芒果搜索",
+      "type": 1,
+      "api": "csp_Drpy",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "{\"jsPath\":\"https://drpy.112141.xyz/js/mgtv.js\"}"
+    },
+    {
+      "key": "drpy_js_tencent",
+      "name": "腾讯搜索",
+      "type": 1,
+      "api": "csp_Drpy",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "{\"jsPath\":\"https://drpy.112141.xyz/js/tencent.js\"}"
+    },
+    {
+      "key": "drpy_js_iqiyi",
+      "name": "爱奇艺搜索",
+      "type": 1,
+      "api": "csp_Drpy",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "{\"jsPath\":\"https://drpy.112141.xyz/js/iqiyi.js\"}"
+    },
+    {
+      "key": "drpy_js_youku",
+      "name": "优酷搜索",
+      "type": 1,
+      "api": "csp_Drpy",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "{\"jsPath\":\"https://drpy.112141.xyz/js/youku.js\"}"
+    },
+    {
+      "key": "hongguo",
+      "name": "红果短剧",
+      "type": 1,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\"charset\":\"UTF-8\",\"headers\":{\"User-Agent\":\"okhttp/3.12.13\"},\"playerUrl\":\"\",\"siteName\":\"红果短剧\",\"siteUrl\":\"https://www.hongguo.com\"}"
+    },
+    {
+      "key": "qimao",
+      "name": "七猫短剧",
+      "type": 1,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\"charset\":\"UTF-8\",\"headers\":{\"User-Agent\":\"okhttp/3.12.13\"},\"playerUrl\":\"\",\"siteName\":\"七猫短剧\",\"siteUrl\":\"https://www.qimaodj.com\"}"
+    },
+    {
+      "key": "hippo",
+      "name": "河马短剧",
+      "type": 1,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\"charset\":\"UTF-8\",\"headers\":{\"User-Agent\":\"okhttp/3.12.13\"},\"playerUrl\":\"\",\"siteName\":\"河马短剧\",\"siteUrl\":\"https://www.hippodj.com\"}"
+    },
+    {
+      "key": "haokan",
+      "name": "好看短剧",
+      "type": 1,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\"charset\":\"UTF-8\",\"headers\":{\"User-Agent\":\"okhttp/3.12.13\"},\"playerUrl\":\"\",\"siteName\":\"好看短剧\",\"siteUrl\":\"https://www.haokandj.com\"}"
+    },
+    {
+      "key": "fanshe",
+      "name": "番社动漫",
+      "type": 1,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\"charset\":\"UTF-8\",\"headers\":{\"User-Agent\":\"okhttp/3.12.13\"},\"playerUrl\":\"\",\"siteName\":\"番社动漫\",\"siteUrl\":\"https://www.fanshe.com\"}"
+    },
+    {
+      "key": "bashi",
+      "name": "巴士动漫",
+      "type": 1,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\"charset\":\"UTF-8\",\"headers\":{\"User-Agent\":\"okhttp/3.12.13\"},\"playerUrl\":\"\",\"siteName\":\"巴士动漫\",\"siteUrl\":\"https://www.bashidm.com\"}"
+    },
+    {
+      "key": "drpy_js_NT",
+      "name": "NT动漫",
+      "type": 1,
+      "api": "csp_Drpy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "{\"jsPath\":\"https://drpy.112141.xyz/js/ntdm.js\"}"
+    },
+    {
+      "key": "config",
+      "name": "配置中心",
+      "type": 1,
+      "api": "csp_XPath",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "{\"charset\":\"UTF-8\",\"headers\":{\"User-Agent\":\"okhttp/3.12.13\"},\"playerUrl\":\"\",\"siteName\":\"配置中心\",\"siteUrl\":\"https://www.config.com\"}"
+    },
+    {
+      "key": "local",
+      "name": "本地视频",
+      "type": 1,
+      "api": "csp_Local",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "{}"
+    },
+    {
+      "key": "trailer",
+      "name": "新片预告",
+      "type": 1,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "{\"charset\":\"UTF-8\",\"headers\":{\"User-Agent\":\"okhttp/3.12.13\"},\"playerUrl\":\"\",\"siteName\":\"新片预告\",\"siteUrl\":\"https://www.trailer.com\"}"
+    }
+  ],
+  "parses": [
+    {
+      "name": "免费分享",
+      "url": "jx.xmflv.com"
+    },
+    {
+      "name": "jx",
+      "url": "jx.m3u8.tv/jx/jx.php"
+    },
+    {
+      "name": "yemu",
+      "url": "yemu.xyz"
+    },
+    {
+      "name": "999",
+      "url": "huayong.net/999"
+    },
+    {
+      "name": "巧技",
+      "url": "pandown.pro/app/kkdy"
+    }
+  ],
+  "rules": [],
+  "flags": {
+    "homeTabs": [
+      "电影",
+      "剧集",
+      "动漫",
+      "短剧",
+      "综艺",
+      "搜索"
+    ]
+  }
+}
